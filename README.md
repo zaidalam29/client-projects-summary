@@ -1,6 +1,6 @@
 # client-projects-summary
 
-## 🧾 Project: Envirio Mbox — IoT-Based Air Pollution Monitoring System
+## 🧾 Project: Envirio Mbox — IoT Based Air Pollution Monitoring System
 
 📍 **Client Type/Location:** Industrial / Construction Site Monitoring
 
