@@ -29,7 +29,7 @@ Source code cannot be publicly shared due to client confidentiality. The project
 
 ## 🧾 Project: CA-Tool (Connected Architecture) — Volvo
 
-📅 **Duration:** January 2025 - Present  
+📅 **Duration:** January 2024 - November 2024  
 📍 **Client:** Volvo (Automotive Industry)  
 
 🛠️ **Tech Stack:**  
