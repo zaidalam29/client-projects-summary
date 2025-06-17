@@ -89,7 +89,7 @@ Due to client confidentiality, source code is not publicly available.
 📍 **Client:** Healthcare / Medical Representatives  
 
 🛠️ **Tech Stack:**  
-- Backend/Admin Panel: Laravel  
+- Backend/Admin Panel: Laravel with API  
 - Database: MySQL  
 - Payment Integration: Stripe Payment Gateway  
 - Cloud Services: AWS  
