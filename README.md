@@ -270,7 +270,7 @@ MindFirst.Ai is an online platform connecting patients with doctors through real
 🔗 **Project Link:** [https://mindfirst.ai/](https://mindfirst.ai/)
 
 🔐 **Note:**  
-Source code is confidential and not publicly available due to client privacy agreements.
+Source code is confidential and not publicly available due to client privacy agreements. 
 
 --------------------------------------------------------------------------------------------------------
 
