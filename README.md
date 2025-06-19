@@ -265,7 +265,7 @@ MindFirst.Ai is an online platform connecting patients with doctors through real
 - Integrated BigBlueButton for seamless, real-time video consultations  
 - Implemented secure payment processing for consultation fees  
 - Enabled real-time notifications and reminders to enhance user engagement  
-- Optimized the platform for high user traffic while ensuring privacy and security of sensitive medical data  
+- Optimized the platform for high user traffic while ensuring privacy and security of sensitive medical data 
 
 🔗 **Project Link:** [https://mindfirst.ai/](https://mindfirst.ai/)
 
