@@ -28,7 +28,7 @@ Project source code is confidential and cannot be shared publicly. Visit the lin
 
 --------------------------------------------------------------------------------------------------------
 
-## 🧾 Project: ELSA — AI-Powered Microservices-Based Workflow Platform
+## 🧾 Project: ELSA Connected Architecture — AI-Powered Microservices-Based Workflow Platform
 
 📅 **Duration:** January 2025 – Present  
 📍 **Client/Platform:** ELSA (Enterprise AI Platform)  
