@@ -4,7 +4,7 @@
 
 📍 **Company/Role:** Full Stack Developer at Routa Digital India Pvt Ltd  
 📅 **Duration:** March 2025 – Present  
-🔗 **Live App:** [https://app.walkingtalking.com/walk](https://app.walkingtalking.com)
+🔗 **Live App:** [https://app.walkingtalking.com](https://app.walkingtalking.com/walk)
 
 🛠️ **Tech Stack:**
 - ChatBot: Using openai.com 
