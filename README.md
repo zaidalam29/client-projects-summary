@@ -1,4 +1,4 @@
-# client-projects-summary
+# Professional Project Highlights
 
 ## 🧾 Project: Walking Talking — Social Fitness App with Real-time Audio
 
