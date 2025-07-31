@@ -1,5 +1,63 @@
 # client-projects-summary
 
+## 🧾 Project: Walking Talking — Social Fitness App with Real-time Audio
+
+📍 **Company/Role:** Full Stack Developer at Routa Digital India Pvt Ltd  
+📅 **Duration:** March 2025 – Present  
+🔗 **Live App:** [https://app.walkingtalking.com/walk](https://app.walkingtalking.com/walk)
+
+🛠️ **Tech Stack:**  
+- Mobile App: IONIC  
+- Web: React.js  
+- Runtime: Capacitor  
+- Language: TypeScript  
+
+🎯 **Overview:**  
+Walking Talking is a social fitness application that allows users to schedule and join group walks while engaging in real-time audio conversations. It promotes community wellness by enabling users to walk together — virtually or in-person — while staying connected through integrated voice chats. The app tracks step counts, offers enrollable audio courses, and includes multiple walk types for different user needs.
+
+🔧 **My Contribution:**  
+- Developed hybrid mobile application using IONIC and Capacitor with TypeScript  
+- Built interactive and responsive UI components in React.js for web views  
+- Integrated real-time audio communication features for group walk sessions  
+- Implemented secure step tracking and audio course enrollment functionalities  
+- Ensured cross-platform compatibility and smooth performance across Android/iOS devices  
+- Collaborated with designers and backend teams to ensure seamless user experience
+
+🔐 **Note:**  
+Project source code is confidential and cannot be shared publicly. Visit the link above to explore the live app and features.
+
+--------------------------------------------------------------------------------------------------------
+
+## 🧾 Project: ELSA — AI-Powered Microservices-Based Workflow Platform
+
+📅 **Duration:** January 2025 – Present  
+📍 **Client/Platform:** ELSA (Enterprise AI Platform)  
+
+🛠️ **Tech Stack:**  
+- Microservices: Node.js (Express), Docker  
+- Frontend: React.js  
+- AI Integration: OpenAI / Custom ML Models  
+- Database: PostgreSQL  
+- Cloud: AWS (S3, EC2, CodePipeline)  
+
+🎯 **Overview:**  
+ELSA is an AI-powered enterprise platform built with a microservices architecture that automates complex business workflows. It provides intelligent recommendations, AI-driven task assistants, and dynamic dashboards to empower decision-makers with real-time insights. Designed for scalability and modularity, ELSA brings together frontend usability and backend robustness in a cloud-native environment.
+
+🔧 **My Contribution:**  
+- Designed and developed scalable microservices using Node.js and Docker for modular backend processing  
+- Built and integrated AI-powered components using OpenAI and ML APIs for task automation and smart decisioning  
+- Developed intuitive frontend interfaces using React.js for real-time monitoring and workflow configuration  
+- Created optimized PostgreSQL queries and schemas for multi-tenant data handling  
+- Deployed and managed cloud infrastructure using AWS services like EC2, S3, and CloudWatch  
+- Actively contributing to ongoing feature development, bug fixes, and architecture enhancements  
+
+🔗 **Project Link:** [https://elsa.rdprojects.tech/](https://elsa.rdprojects.tech/)
+
+🔐 **Note:**  
+Project source code is proprietary and cannot be shared publicly. Visit the link above to explore the live platform and its AI-enabled features.
+
+--------------------------------------------------------------------------------------------------------
+
 ## 🧾 Project: Envirio Mbox — IoT-Based Air Pollution Monitoring System
 
 📍 **Client Type/Location:** Industrial / Construction Site Monitoring
