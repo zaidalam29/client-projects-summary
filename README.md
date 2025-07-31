@@ -331,18 +331,22 @@ MindFirst.Ai is an online platform connecting patients with doctors through real
 Source code is confidential and not publicly available due to client privacy agreements. 
 
 --------------------------------------------------------------------------------------------------------
-
 ## Other Projects
 
 | Project Name        | Technology Stack                                | Description                              |
-|---------------------|------------------------------------------------|----------------------------------------|
-| Order Stack         | Laravel, MySQL                                 | Order management system                 |
-| InfinitiQ (CRM)     | CodeIgniter, MySQL                             | Customer Relationship Management (CRM) |
-| Learn Wyse          | CodeIgniter, MySQL                             | E-learning platform                     |
-| Market Mingle       | Laravel, MySQL                                 | Multi-vendor marketplace                |
-| BodyBannao.com      | Core PHP, JavaScript, jQuery, Ajax, Bootstrap | Fitness and health website              |
-| Ffsportshub.com     | OpenCart, PHP, MySQL                           | Sports merchandise e-commerce           |
-| SearchUrCollege.com | Core PHP, JavaScript, Bootstrap, Ajax, API    | College search and information portal  |
-| Tradeborders.com    | CodeIgniter, MySQL                             | International trade platform            |
-| Veesafe.com         | Laravel, MySQL, RazorPay, Stripe, Shiprocket | E-commerce with payment & shipment integration |
-| advancells.com         | WordPress, MySQL | Research Oriented Website |
+|---------------------|------------------------------------------------|------------------------------------------|
+| [Order Stack](https://orderstack.rdprojects.tech/) | Laravel, MySQL                                 | Order management system                 |
+| [InfinitiQ (CRM)](https://infinitiq.rdprojects.tech/) | CodeIgniter, MySQL                             | Customer Relationship Management (CRM) |
+| [Learn Wyse](https://learnwyse.rdprojects.tech/) | CodeIgniter, MySQL                             | E-learning platform                     |
+| [Market Mingle](https://marketmingle.rdprojects.tech/) | Laravel, MySQL                                 | Multi-vendor marketplace                |
+| [Swift Logix](http://swiftlogix.rdprojects.tech/) | Laravel, MySQL                                 | Logistics management platform           |
+| [Elite School](http://eliteschool.rdprojects.tech/) | Laravel, MySQL                                 | School Management System                |
+| [Hashtag LMS](http://hashtaglms.rdprojects.tech/) | Laravel, MySQL                                 | Learning Management System              |
+| [Social Sphere](http://socialsphere.rdprojects.tech/) | Laravel, MySQL                                 | Social media management tool            |
+| [Pro Reality](https://proreality.rdprojects.tech/) | Laravel, MySQL                                 | Real estate listing & booking platform  |
+| BodyBannao.com      | Core PHP, JavaScript, jQuery, Ajax, Bootstrap   | Fitness and health website               |
+| Ffsportshub.com     | OpenCart, PHP, MySQL                            | Sports merchandise e-commerce            |
+| SearchUrCollege.com | Core PHP, JavaScript, Bootstrap, Ajax, API     | College search and information portal    |
+| Tradeborders.com    | CodeIgniter, MySQL                              | International trade platform             |
+| Veesafe.com         | Laravel, MySQL, RazorPay, Stripe, Shiprocket   | E-commerce with payment & shipment integration |
+| advancells.com      | WordPress, MySQL                                | Research Oriented Website                |
