@@ -4,11 +4,13 @@
 
 📍 **Company/Role:** Full Stack Developer at Routa Digital India Pvt Ltd  
 📅 **Duration:** March 2025 – Present  
-🔗 **Live App:** [https://app.walkingtalking.com/walk](https://app.walkingtalking.com/walk)
+🔗 **Live App:** [https://app.walkingtalking.com/walk](https://app.walkingtalking.com)
 
-🛠️ **Tech Stack:**  
-- Mobile App: IONIC  
-- Web: React.js  
+🛠️ **Tech Stack:**
+- ChatBot: Using openai.com 
+- Mobile App: IONIC 
+- Backend: Python (FastAPI)  
+- Frontend: React.js  
 - Runtime: Capacitor  
 - Language: TypeScript  
 
