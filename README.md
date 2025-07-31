@@ -143,6 +143,46 @@ Due to client confidentiality, source code is not publicly available.
 
 --------------------------------------------------------------------------------------------------------
 
+
+## 🎓 Project: Alshaimaaa LMS (Video Conferencing with Perculus)
+
+> **🌐 Website:** [https://lms.alshaimaaa.com](https://lms.alshaimaaa.com)  
+> **🔧 Tech Stack:** CodeIgniter · MySQL · Perculus API · jQuery · Bootstrap  
+> **🔗 Parent Site:** [https://alshaimaaa.com](https://alshaimaaa.com) (Built with WordPress)
+
+### 📌 Project Overview:
+The **Alshaimaaa LMS** is a robust Learning Management System built using **CodeIgniter (PHP Framework)** and **MySQL**. It's designed to deliver online education and training through a secure and interactive interface.
+
+### 💡 Key Features:
+- 👩‍🏫 **Instructor & Student Management:** Role-based access with dashboards for both.
+- 📚 **Course Creation:** Add modules, quizzes, materials, and downloadable resources.
+- 📅 **Live Class Scheduling:** Schedule classes with timezone support and calendar integration.
+- 🎥 **Live Video Conferencing:**  
+  Integrated with **Perculus**, a third-party video conferencing API used for real-time classes.
+- 📈 **Attendance & Reports:** Automated attendance tracking from Perculus sessions.
+- 📤 **Document Upload:** Instructors can upload lecture files and assignment PDFs.
+- 🧑‍💻 **Admin Panel:** Full control over users, sessions, reports, and settings.
+
+### 🔗 Third-Party Integration:
+- **🎥 Perculus API:**  
+  - Used for live sessions (video, audio, screen sharing)  
+  - Session creation, join links, and attendance reports are all API-driven.
+- **💳 Optional Payment Integration (Upcoming):** Razorpay & Stripe
+
+### 🧱 Architecture:
+- **Frontend:** Bootstrap, jQuery, AJAX  
+- **Backend:** CodeIgniter 3.x  
+- **Database:** MySQL  
+- **Hosting:** Shared Linux server with cPanel
+
+### 👤 Role-Based Access:
+- **Admin:** Manage full platform, analytics, users, courses, sessions.
+- **Instructor:** Create classes, manage students, upload content.
+- **Student:** Join live sessions, download materials, view progress.
+
+--------------------------------------------------------------------------------------------------------
+
+
 ## 🧾 Project: Lodgepole Monitor — Medical Representative (MR) Visit Management App
 
 📅 **Duration:** June 2024 - December 2024  
