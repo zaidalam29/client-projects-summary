@@ -140,6 +140,46 @@ Retta Ador is a specialized platform designed to streamline banking and loan man
 🔐 **Note:**  
 Due to client confidentiality, source code is not publicly available.
 
+--------------------------------------------------------------------------------------------------------
+
+## 🏗️ Project: Tenderin – Construction Tender Management Platform
+
+> **🌐 Live URL:** [https://app.tenderin.fi/login](https://app.tenderin.fi/login)  
+> **🔧 Tech Stack:** Microservices Architecture · Node.js · React.js · MongoDB · RabbitMQ · REST APIs
+
+### 📌 Project Overview:
+**Tenderin** is a modern, scalable tender management system tailored for the **construction industry**. It enables **builders** and **contractors** to create, submit, and approve tenders with a smooth digital workflow.
+
+This project was developed using a **microservices architecture** to ensure modularity, scalability, and maintainability.
+
+### 💡 Key Features:
+- 🏗️ **Tender Creation:** Builders can create detailed tenders with project scope, deadlines, and budget.
+- 📝 **Bid Submission:** Vendors and subcontractors can submit bids and required documents.
+- ✅ **Approval Workflow:** Multi-step approval process for internal and external stakeholders.
+- 🔄 **Tender Lifecycle Management:** From creation to bidding to award stage.
+- 📤 **Document Upload:** Upload and manage technical drawings, PDFs, contracts.
+- 🔔 **Notifications:** Real-time updates for tender status, deadlines, and approvals.
+- 🔐 **Secure Authentication:** JWT-based login and role-based access.
+
+### 🧱 Architecture:
+- **Frontend:** React.js with Redux Toolkit  
+- **Backend:** Node.js (Express) microservices  
+- **Database:** MongoDB (per service)  
+- **Messaging Queue:** RabbitMQ for async event communication  
+- **Authentication:** Centralized Auth Service using JWT  
+- **DevOps:** Dockerized microservices, CI/CD via GitHub Actions
+
+### ⚙️ Microservices Implemented:
+- **Auth Service:** Handles login, signup, JWT issuance  
+- **Tender Service:** Manages tender data and workflows  
+- **Notification Service:** Pushes email & in-app updates  
+- **Document Service:** File uploads and storage logic  
+- **Approval Service:** Manages tender review and approval steps  
+
+### 👤 Role-Based Access:
+- **Admin:** Manages the entire platform, user permissions, master data  
+- **Builder:** Can create and manage tenders  
+- **Vendor/Subcontractor:** Can view and bid on assigned tenders
 
 --------------------------------------------------------------------------------------------------------
 
