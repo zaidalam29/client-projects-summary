@@ -365,6 +365,49 @@ Due to client confidentiality, the source code is not publicly available.
 --------------------------------------------------------------------------------------------------------
 
 
+# 🚕 SPL Taxi – Laravel-Based Taxi Booking Platform
+
+**Live Website:** [https://www.spl.taxi](https://www.spl.taxi)  
+**Duration:** May 2023 – December 2024
+
+## 🛠️ Tech Stack
+
+- **Backend:** Laravel (PHP Framework)
+- **Frontend:** Blade, Bootstrap, jQuery
+- **Maps & Location:** Google Places API, Geolocation APIs
+- **Authentication:** Laravel Auth
+- **Database:** MySQL
+- **Hosting:** Shared Hosting (cPanel)
+
+## 👨‍💻 Key Features & Contributions
+
+- Developed the full-featured taxi booking platform from scratch using Laravel.
+- Integrated **Google Places API** for:
+  - Real-time address autocomplete.
+  - Accurate pickup and drop location selection.
+- Designed a fully functional **Admin Dashboard**:
+  - Manage bookings, users, drivers, routes, and pricing.
+- Built custom modules for:
+  - User registration and login
+  - Taxi request with pickup/drop selection
+  - Fare estimation and history
+- Optimized the platform for:
+  - SEO best practices
+  - Mobile responsiveness
+  - Fast performance and security
+- Deployed to live server with full domain, SSL, and cPanel configuration.
+
+## 📍 Google Places API Integration
+
+- API used to fetch location suggestions based on user input.
+- Integrated seamlessly with Laravel validation and forms.
+
+---
+
+> 💡 **Note:** This project was built with a focus on clean code, reusable components, and maintainable structure using Laravel MVC architecture.
+
+--------------------------------------------------------------------------------------------------------
+
 ## 🧾 Project: IntegraWorks CRM — Client & Freelancer Management Platform
 
 📅 **Duration:** April 2023 - December 2024  
