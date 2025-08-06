@@ -184,6 +184,40 @@ This project was developed using a **microservices architecture** to ensure modu
 --------------------------------------------------------------------------------------------------------
 
 
+# Nordic Shiatsu Website
+
+A professionally developed website for Nordic Shiatsu, focused on therapy services, session booking, and informative content related to Shiatsu healing.
+
+## 🧰 Tech Stack Overview
+
+- **Frontend**: HTML5, CSS3, JavaScript  
+- **Framework**: Bootstrap 5  
+- **Backend**: PHP 7+ (Custom PHP, no framework used)  
+- **Database**: MySQL  
+- **Email**: PHPMailer (SMTP integration for contact forms)  
+- **Hosting**: cPanel Shared Hosting  
+- **Deployment**: Git-based deployment  
+- **SEO**: Meta tags, image optimization, mobile-first design  
+- **Security**: Form validation, input sanitization, HTTPS  
+
+## 👨‍💻 My Contribution (May 2023 – Dec 2024)
+
+> ✅ Entire project was designed, developed, tested, and deployed by me as a solo full-stack developer.
+
+- UI/UX Design with mobile responsiveness using Bootstrap  
+- Developed dynamic pages (Sessions, About, Contact) using PHP & MySQL  
+- Integrated contact form with backend email notifications (PHPMailer)  
+- Created and managed SEO-friendly URLs and meta data  
+- Setup hosting, domain, and DNS  
+- Maintained website performance, uptime, and updates post-deployment  
+- Added accessibility support (ARIA roles, semantic HTML)
+
+## 🔗 Live Link
+
+👉 [https://nordicshiatsu.com](https://nordicshiatsu.com)
+
+--------------------------------------------------------------------------------------------------------
+
 ## 🎓 Project: Alshaimaaa LMS (Video Conferencing with Perculus)
 
 > **🌐 Website:** [https://lms.alshaimaaa.com](https://lms.alshaimaaa.com)  
