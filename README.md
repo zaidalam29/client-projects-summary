@@ -61,6 +61,7 @@ This repository is a curated portfolio of the production systems I've architecte
 6. [AI Customer Support Assistant (Agentic AI)](#6-ai-customer-support-assistant-agentic-ai)
 
 **💻 Full Stack Development Projects**
+
 7. [Mahindra Rise — Dealer ERP & Incentive Management](#7-mahindra-rise--dealer-erp--incentive-management)
 8. [Volvo Connected Architecture (CA-Tool)](#8-volvo-connected-architecture-ca-tool)
 9. [Walking Talking — Social Fitness App](#9-walking-talking--social-fitness-app)
